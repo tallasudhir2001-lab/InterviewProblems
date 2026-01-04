@@ -17,6 +17,12 @@ namespace InterviewProblems.Arrays
          */
         public void Sort012Array(int[] array)
         {
+            /*[0,0,1,2]
+             * low mid high
+             * 0 - 0 to low-1
+             * 1 - low to mid -1
+             * 2 - mid -high -1
+             */
             int low = 0, mid = 0, high = array.Length - 1;
             while (mid <= high)
             {

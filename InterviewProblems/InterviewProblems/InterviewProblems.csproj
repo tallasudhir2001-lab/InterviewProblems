@@ -46,7 +46,9 @@
     <Compile Include="Arrays\ArrayFunctions.cs" />
     <Compile Include="Arrays\ArrayRotation.cs" />
     <Compile Include="Arrays\ArraySorting.cs" />
+    <Compile Include="Arrays\ContigiousSubArray.cs" />
     <Compile Include="Arrays\MinandMax.cs" />
+    <Compile Include="Arrays\MissingElement.cs" />
     <Compile Include="Arrays\ReverseAnArray.cs" />
     <Compile Include="Arrays\UnionAndIntersection.cs" />
     <Compile Include="Program.cs" />
