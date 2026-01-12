@@ -1,0 +1,10 @@
+Microsoft.AspNetCore.Authentication.JwtBearer - For JWT
+
+dotnet add package Microsoft.AspNetCore.Identity.EntityFrameworkCore - Identity.EntityFrameworkCore ? Identity + EF integration
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer - SqlServer ? DB provider
+dotnet add package Microsoft.EntityFrameworkCore.Tools - Tools ? Migrations
+
+
+
+
+
